@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "homepage": "<https://mounadaas.github.io/tipcalculator>",
+  "homepage": "https://mounadaas.github.io/tipcalculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
